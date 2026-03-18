@@ -1,0 +1,38 @@
+{
+  "name": "port",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://local_proxy@127.0.0.1:41227/git/xonmusk/port"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@studio-freight/lenis": "^1.0.42",
+    "@types/node": "^25.5.0",
+    "@types/react": "^18.3.28",
+    "framer-motion": "^12.38.0",
+    "gsap": "^3.14.2",
+    "next": "^14.2.35",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "typescript": "^5.9.3"
+  },
+  "devDependencies": {
+    "@types/react-dom": "^18.3.7",
+    "autoprefixer": "^10.4.27",
+    "eslint": "^8.57.1",
+    "eslint-config-next": "^14.2.35",
+    "postcss": "^8.5.8",
+    "tailwindcss": "^3.4.19"
+  }
+}
