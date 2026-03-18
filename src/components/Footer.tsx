@@ -11,7 +11,7 @@ export default function Footer() {
     <footer className="relative py-8 px-6 md:px-12 border-t border-dark-300/30">
       <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between gap-4">
         <p className="text-gray-600 font-body text-sm">
-          &copy; {new Date().getFullYear()} Alex Rivera. Crafted with passion.
+          &copy; {new Date().getFullYear()} Ashwik Ram. Crafted with passion.
         </p>
 
         <MagneticButton

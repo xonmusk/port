@@ -2,12 +2,12 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Alex Rivera | Creative Developer & Digital Storyteller',
-  description: 'Portfolio of Alex Rivera — a creative developer specializing in immersive web experiences, scroll-driven storytelling, and cinematic animations.',
-  keywords: ['creative developer', 'portfolio', 'web animation', 'GSAP', 'scroll animation', 'digital storyteller'],
+  title: 'Ashwik Ram | Instructional Designer · Content Strategist · Visual Storyteller',
+  description: 'Portfolio of Ashwik Ram — an instructional designer and content strategist specializing in e-learning, visual storytelling, and digital communication.',
+  keywords: ['instructional designer', 'content strategist', 'portfolio', 'e-learning', 'visual storyteller', 'Ashwik Ram'],
   openGraph: {
-    title: 'Alex Rivera | Creative Developer',
-    description: 'Crafting immersive digital experiences that move people.',
+    title: 'Ashwik Ram | Instructional Designer & Content Strategist',
+    description: 'I don\'t just design content — I engineer how people learn.',
     type: 'website',
   },
 }

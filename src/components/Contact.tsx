@@ -11,10 +11,7 @@ if (typeof window !== 'undefined') {
 }
 
 const socialLinks = [
-  { name: 'GitHub', href: siteConfig.socials.github, icon: 'GH' },
-  { name: 'Twitter', href: siteConfig.socials.twitter, icon: 'TW' },
   { name: 'LinkedIn', href: siteConfig.socials.linkedin, icon: 'LI' },
-  { name: 'Dribbble', href: siteConfig.socials.dribbble, icon: 'DR' },
 ]
 
 export default function Contact() {

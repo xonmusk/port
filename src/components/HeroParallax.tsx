@@ -91,7 +91,7 @@ export default function HeroParallax() {
     return () => ctx.revert()
   }, [])
 
-  const subtitleWords = 'Creative Developer & Digital Storyteller'.split(' ')
+  const subtitleWords = 'Instructional Designer · Content Strategist · Visual Storyteller'.split(' ')
 
   return (
     <section
@@ -248,7 +248,7 @@ export default function HeroParallax() {
           className="font-display text-5xl md:text-7xl lg:text-9xl font-bold text-white text-center will-change-transform"
           style={{ textShadow: '0 0 80px rgba(201, 168, 76, 0.3)' }}
         >
-          Alex Rivera
+          Ashwik Ram
         </h1>
         <p
           ref={subtitleRef}
